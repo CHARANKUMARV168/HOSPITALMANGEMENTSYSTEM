@@ -1,0 +1,2 @@
+OUTPUTS LINKS
+: https://github.com/CHARANKUMARV168/HOSPITALMANGEMENTSYSTEM/tree/main/outputs
